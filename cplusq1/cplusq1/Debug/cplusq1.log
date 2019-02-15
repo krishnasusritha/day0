@@ -1,0 +1,6 @@
+﻿  ass2_q6.cpp
+c:\users\esdm0\documents\visual studio 2015\projects\cplusq1\cplusq1\ass2_q6.cpp(3): error C2008: ';': unexpected in macro definition
+c:\users\esdm0\documents\visual studio 2015\projects\cplusq1\cplusq1\ass2_q6.cpp(18): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\esdm0\documents\visual studio 2015\projects\cplusq1\cplusq1\ass2_q6.cpp(27): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
